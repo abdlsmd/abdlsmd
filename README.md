@@ -98,15 +98,19 @@
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=abdlsmd&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abdlsmd&theme=ambient_gradient&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdlsmd&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdlsmd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=abdlsmd&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdlsmd&theme=tokyonight&hide_border=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abdlsmd&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdlsmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=abdlsmd&icon=5&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
