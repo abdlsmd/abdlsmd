@@ -13,16 +13,13 @@
 ---
 
 ## 🌐 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdul-samad-283233290" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdul Samad" height="30" width="40" />
-    Abdul Samad
-  </a>
-</p>
+
+[![LinkedIn: Abdul Samad](https://img.shields.io/badge/-Abdul%20Samad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-samad-283233290)](https://www.linkedin.com/in/abdul-samad-283233290)
 
 ---
 
 ## 🛠️ Languages and Tools
+
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -91,7 +88,7 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unreal" width="40" height="40"/>
   </a>
 </p>
 
@@ -110,7 +107,5 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=abdlsmd&icon=5&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
