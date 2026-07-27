@@ -1,65 +1,113 @@
-<h1 align="center">Hi 👋, I'm Abdul Samad</h1>
-<h3 align="center">A passionate Mobile App Developer.</h3>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:02569B&height=200&section=header&text=Abdul%20Samad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20Flutter%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-- 🔭 I’m currently working on **Mobile Development**
-- 🌱 I’m currently learning **Flutter**
-- 👯 I’m looking to collaborate on **Mobile Development, Web Development**
-- 💬 Ask me about **Flutter, React, JavaScript**
-- 📫 How to reach me **abdulsamad979899@gmail.com**
-- ⚡ Fun fact **Jack of all Trades, Master of (Ctrl c) (Ctrl v)**
+<a href="https://www.linkedin.com/in/abdul-samad-283233290">
+  <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Samad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:abdulsamad979899@gmail.com">
+  <img src="https://img.shields.io/badge/Email-abdulsamad979899%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<br/>
 
-## 🌐 Connect with me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Building+cross-platform+apps+with+Flutter;Exploring+React+%26+JavaScript;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
-[![LinkedIn: Abdul Samad](https://img.shields.io/badge/-Abdul%20Samad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-samad-283233290)](https://www.linkedin.com/in/abdul-samad-283233290)
+</div>
 
----
+<br/>
 
-## 🛠️ Languages and Tools
+## 👨‍💻 About Me
 
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
-  <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unreal" width="40" height="40"/></a>
-</p>
+```yaml
+Currently Working On:   Mobile App Development
+Currently Learning:     Flutter (advanced state management, animations)
+Open To Collaborate On: Mobile & Web Development projects
+Ask Me About:           Flutter, React, JavaScript
+Reach Me At:            jamabdulsamad26@gmail.com
+```
 
----
+<br/>
 
-# 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdlsmd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-![GitHub Streak](https://streak-stats.demolab.com?user=abdlsmd&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdlsmd&theme=tokyonight&hide_border=true&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdlsmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<br/><br/>
 
----
+**Frameworks & Libraries**
+<br/>
+<img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-[![](https://visitcount.itsvg.in/api?id=abdlsmd&icon=5&color=8)](https://visitcount.itsvg.in)
+<br/><br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Databases**
+<br/>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<br/><br/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Metrics
+
+<div align="center">
+
+<!--
+  This image is generated by the GitHub Action in .github/workflows/metrics.yml
+  and committed straight into this repo — it does NOT depend on the
+  github-readme-stats.vercel.app instance, so it won't break the way
+  your stats/top-langs cards did.
+-->
+<img src="https://raw.githubusercontent.com/abdlsmd/abdlsmd/main/github-metrics.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=abdlsmd&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0A66C2&height=120&section=footer"/>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=abdlsmd&icon=5&color=8"/>
+</a>
+
+</div>
