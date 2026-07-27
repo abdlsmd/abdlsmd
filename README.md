@@ -24,7 +24,7 @@ Currently Working On:   Mobile App Development
 Currently Learning:     Flutter (advanced state management, animations)
 Open To Collaborate On: Mobile & Web Development projects
 Ask Me About:           Flutter, React, JavaScript
-Reach Me At:            jamabdulsamad26@gmail.com
+Reach Me At:            abdulsamad979899@gmail.com
 ```
 
 <br/>
@@ -76,6 +76,32 @@ Reach Me At:            jamabdulsamad26@gmail.com
 
 <br/>
 
+## 🚀 Featured Projects
+
+<!--
+  Replace REPO_NAME_1 / REPO_NAME_2 below with your actual repo slugs
+  (case-sensitive, exact name as it appears in the URL).
+  These shields.io badges pull live star/language/commit data straight
+  from GitHub's own API, so once the repo name is correct they'll always
+  stay accurate — no extra setup needed.
+-->
+
+### 📱 [Project Name 1](https://github.com/abdlsmd/REPO_NAME_1)
+> One-line description — what it does and the stack you used.
+
+![Stars](https://img.shields.io/github/stars/abdlsmd/REPO_NAME_1?style=flat-square&color=0A66C2&label=stars)
+![Top Language](https://img.shields.io/github/languages/top/abdlsmd/REPO_NAME_1?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/abdlsmd/REPO_NAME_1?style=flat-square)
+
+### 📱 [Project Name 2](https://github.com/abdlsmd/REPO_NAME_2)
+> One-line description — what it does and the stack you used.
+
+![Stars](https://img.shields.io/github/stars/abdlsmd/REPO_NAME_2?style=flat-square&color=0A66C2&label=stars)
+![Top Language](https://img.shields.io/github/languages/top/abdlsmd/REPO_NAME_2?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/abdlsmd/REPO_NAME_2?style=flat-square)
+
+<br/>
+
 ## 📊 GitHub Metrics
 
 <div align="center">
@@ -102,12 +128,24 @@ Reach Me At:            jamabdulsamad26@gmail.com
 
 <br/>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdlsmd/abdlsmd/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdlsmd/abdlsmd/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/abdlsmd/abdlsmd/output/github-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0A66C2&height=120&section=footer"/>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=abdlsmd&icon=5&color=8"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=abdlsmd&color=0A66C2&style=flat-square&label=Profile+Views"/>
 
 </div>
