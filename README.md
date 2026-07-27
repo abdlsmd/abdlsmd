@@ -76,30 +76,6 @@ Reach Me At:            abdulsamad979899@gmail.com
 
 <br/>
 
-## 🚀 Featured Projects
-
-<!--
-  Replace REPO_NAME_1 / REPO_NAME_2 below with your actual repo slugs
-  (case-sensitive, exact name as it appears in the URL).
-  These shields.io badges pull live star/language/commit data straight
-  from GitHub's own API, so once the repo name is correct they'll always
-  stay accurate — no extra setup needed.
--->
-
-### 📱 [CHAT APP](https://github.com/abdlsmd/Flutter-Chat-App)
-
-![Stars](https://img.shields.io/github/stars/abdlsmd/REPO_NAME_1?style=flat-square&color=0A66C2&label=stars)
-![Top Language](https://img.shields.io/github/languages/top/abdlsmd/REPO_NAME_1?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/abdlsmd/REPO_NAME_1?style=flat-square)
-
-### 📱 [Integrity AI](https://github.com/BabyQaziyal/Integrity-Plagiarism-and-AI-detector)
-
-![Stars](https://img.shields.io/github/stars/abdlsmd/REPO_NAME_2?style=flat-square&color=0A66C2&label=stars)
-![Top Language](https://img.shields.io/github/languages/top/abdlsmd/REPO_NAME_2?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/abdlsmd/REPO_NAME_2?style=flat-square)
-
-<br/>
-
 ## 📊 GitHub Metrics
 
 <div align="center">
