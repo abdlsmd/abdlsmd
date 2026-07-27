@@ -86,15 +86,13 @@ Reach Me At:            abdulsamad979899@gmail.com
   stay accurate — no extra setup needed.
 -->
 
-### 📱 [CHAT APP]([https://github.com/abdlsmd/REPO_NAME_1](https://github.com/abdlsmd/Flutter-Chat-App))
-> One-line description — what it does and the stack you used.
+### 📱 [CHAT APP]([https://github.com/abdlsmd/Flutter-Chat-App])
 
 ![Stars](https://img.shields.io/github/stars/abdlsmd/REPO_NAME_1?style=flat-square&color=0A66C2&label=stars)
 ![Top Language](https://img.shields.io/github/languages/top/abdlsmd/REPO_NAME_1?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/abdlsmd/REPO_NAME_1?style=flat-square)
 
-### 📱 [Integrity AI]([https://github.com/abdlsmd/REPO_NAME_2](https://github.com/BabyQaziyal/Integrity-Plagiarism-and-AI-detector))
-> One-line description — what it does and the stack you used.
+### 📱 [Integrity AI]([https://github.com/BabyQaziyal/Integrity-Plagiarism-and-AI-detector])
 
 ![Stars](https://img.shields.io/github/stars/abdlsmd/REPO_NAME_2?style=flat-square&color=0A66C2&label=stars)
 ![Top Language](https://img.shields.io/github/languages/top/abdlsmd/REPO_NAME_2?style=flat-square)
