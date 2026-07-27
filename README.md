@@ -24,7 +24,7 @@ Currently Working On:   Mobile App Development
 Currently Learning:     Flutter (advanced state management, animations)
 Open To Collaborate On: Mobile & Web Development projects
 Ask Me About:           Flutter, React, JavaScript
-Reach Me At:            abdulsamad979899@gmail.com
+Reach Me At:            jamabdulsamad26@gmail.com
 ```
 
 <br/>
